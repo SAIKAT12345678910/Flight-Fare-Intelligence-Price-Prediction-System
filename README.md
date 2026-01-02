@@ -3,6 +3,7 @@
 🎯 Project Objective
 
 To analyze airline ticket pricing patterns, identify key factors influencing fares, and build a machine learning model to accurately predict flight ticket prices.
+
 📊 Dataset Overview
 
 Large flight dataset with multiple routes and airlines
