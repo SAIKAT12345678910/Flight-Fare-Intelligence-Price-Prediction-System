@@ -70,11 +70,19 @@ Every 1 unit increase in duration increases fare slightly (~₹54)
 
 Linear Regression → MAPE: ~36.40%
 (Not suitable as data is highly non-linear)
+
 Decision Tree Tested
+
 Random Forest Performed Best → MAPE ~4% 
+
 👉 Indicates strong model performance & excellent prediction capability.
+
 🏢 Real-World Business Impact
+
 ✔ Helps airlines in revenue optimization and dynamic pricing
+
 ✔ Helps customers identify best time to book
+
 ✔ Useful for travel companies and ticket platforms
+
 ✔ Shows understanding of real airline pricing systems
