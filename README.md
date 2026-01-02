@@ -8,6 +8,7 @@ To analyze airline ticket pricing patterns, identify key factors influencing far
 
 Large flight dataset with multiple routes and airlines
 Features: Airline, Class, Stops, Duration, Source, Destination, Days Left, Departure Time, Arrival Time, Price etc.
+
 🚀 Key Business Insights
 
 🛫 Pricing Behavior
