@@ -1,4 +1,4 @@
-# Flight-Fare-Intelligence-Price-Prediction-System
+# Flight-Fare-Intelligence-Price-Prediction
 
 🎯 Project Objective
 
