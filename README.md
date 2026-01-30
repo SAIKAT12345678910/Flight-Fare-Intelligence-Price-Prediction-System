@@ -71,20 +71,13 @@ Every 1 unit increase in duration increases fare slightly (~₹54)
 🤖 Machine Learning Model:
 
 Linear Regression → MAPE: ~36.40%
-(Not suitable as data is highly non-linear)
-
-Decision Tree Tested
-
-Random Forest Performed Best → MAPE ~4% 
-
-👉 Indicates strong model performance & excellent prediction capability.
+So it is not a good model, and I tried different models like Decision Tree and Random Forest.
+The result of Random Forest is good, with around 4% error.
 
 🏢 Real-World Business Impact
 
-✔ Helps airlines in revenue optimization and dynamic pricing
+✔ Helps airlines in revenue optimization
 
 ✔ Helps customers identify best time to book
 
 ✔ Useful for travel companies and ticket platforms
-
-✔ Shows understanding of real airline pricing systems
