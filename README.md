@@ -2,7 +2,9 @@
 
 🎯 Project Objective
 
-To analyze airline ticket pricing patterns, identify key factors influencing fares, and build a machine learning model to accurately predict flight ticket prices.
+Flight ticket prices change frequently, so customers are confused about choosing the best airline, time, and route.
+
+So I analyzed the data to understand the key factors affecting ticket prices, identify the best time and routes for customers, and also help airlines understand customer behavior.
 
 📊 Dataset Overview
 
