@@ -8,7 +8,8 @@ So I analyzed the data to understand the key factors affecting ticket prices, id
 
 📊 Dataset Overview
 
-The dataset contains flight information across different airlines and routes, including features like class, number of stops, duration, source, destination, and ticket price.
+
+The dataset contains approximately 3 lakh records collected across different airlines and routes, including features like class, number of stops, duration, source, destination, and ticket price.
 
 🚀 Key Business Insights
 
