@@ -8,8 +8,7 @@ So I analyzed the data to understand the key factors affecting ticket prices, id
 
 📊 Dataset Overview
 
-Large flight dataset with multiple routes and airlines
-Features: Airline, Class, Stops, Duration, Source, Destination, Days Left, Departure Time, Arrival Time, Price etc.
+The dataset contains flight information across different airlines and routes, including features like class, number of stops, duration, source, destination, and ticket price.
 
 🚀 Key Business Insights
 
