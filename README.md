@@ -2,9 +2,9 @@
 
 🎯 Project Objective
 
-Flight ticket prices change frequently, so customers are confused about choosing the best airline, time, and route.
+One of the major problems is that the flight prices change frequently so people are confused to understand the suitable flight 
 
-So I analyzed the data to understand the key factors affecting ticket prices, identify the best time and routes for customers, and also help airlines understand customer behavior.
+So in this project I analyzed the historical data and found which factors impact the airline ticket prices also I tried to find suitable flight, routes, prices, times for customers, and also help airlines understand customer behavior.
 
 📊 Dataset Overview
 
