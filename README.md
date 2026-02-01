@@ -14,9 +14,7 @@ The dataset contains flight information across different airlines and routes, in
 
 🛫 Pricing Behavior
 
-There is no fixed price trend for any single route, since fares depend on multiple factors such as travel class, number of stops, airline, time of travel, and demand.
-Late-night flights are generally the cheapest, as demand is lower.
-Evening flights tend to be the most expensive, likely due to peak travel demand.
+I did not find a fixed price pattern for any specific route. Prices change based on factors such as airline, travel class, number of stops.
 
 ⏰ Arrival & Departure Analysis
 
